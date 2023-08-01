@@ -1,8 +1,8 @@
-import getpass
-user_pass = getpass.getpass('Enter ur password>>>')
-print(user_pass)
-
-print('*' * 50)
+# import getpass
+# user_pass = getpass.getpass('Enter ur password>>>')
+# print(user_pass)
+#
+# print('*' * 50)
 
 # print(some_string)
 # print(id(some_string))
@@ -27,8 +27,3 @@ print('*' * 50)
 # translate_result = some_string.translate(translate_map)
 # print(translate_result)
 
-some_string = 'My name is Nata. My name is Marta'
-user_name = input('Enter your name >>> ').title()
-print(user_name)
-
-print('*' * 50)
